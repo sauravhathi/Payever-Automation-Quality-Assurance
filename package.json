@@ -1,0 +1,15 @@
+{
+  "name": "payever-qa-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --timeout 510000"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^114.0.2",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.10.0"
+  }
+}
